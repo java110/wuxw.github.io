@@ -62,4 +62,4 @@ public class CustomMVCConfiguration extends WebMvcConfigurerAdapter {
 }
 {% endhighlight %}
 
-便可以解决SpringBoot的中文乱码问题了。 
+便可以解决SpringBoot的中文乱码问题了。
