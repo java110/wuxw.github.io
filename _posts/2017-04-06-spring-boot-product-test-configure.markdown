@@ -206,7 +206,7 @@ kafka:
 
 {% endhighlight %}
 
-#2、在 application.yml 中引入
+# 2、在 application.yml 中引入
 
 在启动相应环境时修改成相应环境 如开发环境 dev
 
@@ -218,7 +218,7 @@ spring:
 
 {% endhighlight %}
 
-#3、启动脚本控制
+# 3、启动脚本控制
 
 如果你是要根据启动脚本来控制 则在启动时加入-Dspring.profiles.active=dev
 
