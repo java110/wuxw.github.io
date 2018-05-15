@@ -2,7 +2,7 @@
 layout: post
 title: Spring Boot 中文乱码解决
 date: 2018-05-12 13:32:20 +0300
-description: 使用SpringBoot开发，对外开发接口供调用，传入参数中有中文，出现中文乱码，查了好多资料。 # Add post description (optional)
+description: 使用SpringBoot开发，对外开发接口供调用，传入参数中有中文，出现中文乱码，是一件很头疼是事情，下面就spring boot乱码问题进行探讨希望给入门spring boot 的朋友们帮助。 # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 tags: [spring boot, 乱码]
 ---
