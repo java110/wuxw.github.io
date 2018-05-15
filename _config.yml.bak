@@ -1,6 +1,6 @@
 locale: "en-ZH"
-title: "java110的个人博客"
-description: "java110 个人博客 分享java相关技术" # this means to ignore newlines until "baseurl:"
+title: java110的个人博客
+description: java110 个人博客 分享java相关技术 # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -12,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: java110 wuxw # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: "一名活波，喜欢钻研技术的一线码农，目前业余时间开发维护MicroCommunity项目，一套小区管理项目，欢迎访问https://github.com/java110/MicroCommunity。" # add description
+about-author: 一名活波，喜欢钻研技术的一线码农，目前业余时间开发维护MicroCommunity项目，一套小区管理项目，欢迎访问https://github.com/java110/MicroCommunity。 # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github: https://github.com/java110/MicroCommunity # add your Github handle
