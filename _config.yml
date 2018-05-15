@@ -1,6 +1,6 @@
 locale: "en-ZH"
-title: "java110µÄ¸öÈË²©¿Í"
-description: "java110 ¸öÈË²©¿Í ·ÖÏíjavaÏà¹Ø¼¼Êõ" # this means to ignore newlines until "baseurl:"
+title: "java110çš„ä¸ªäººåšå®¢"
+description: "java110 ä¸ªäººåšå®¢ åˆ†äº«javaç›¸å…³æŠ€æœ¯" # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "http://blog.java110.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: java110 wuxw # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: "Ò»Ãû»î²¨£¬Ï²»¶×êÑĞ¼¼ÊõµÄÒ»ÏßÂëÅ©£¬Ä¿Ç°ÒµÓàÊ±¼ä¿ª·¢Î¬»¤MicroCommunityÏîÄ¿£¬Ò»Ì×Ğ¡Çø¹ÜÀíÏîÄ¿£¬»¶Ó­·ÃÎÊhttps://github.com/java110/MicroCommunity¡£" # add description
+about-author: "ä¸€åæ´»æ³¢ï¼Œå–œæ¬¢é’»ç ”æŠ€æœ¯çš„ä¸€çº¿ç å†œï¼Œç›®å‰ä¸šä½™æ—¶é—´å¼€å‘ç»´æŠ¤MicroCommunityé¡¹ç›®ï¼Œä¸€å¥—å°åŒºç®¡ç†é¡¹ç›®ï¼Œæ¬¢è¿è®¿é—®https://github.com/java110/MicroCommunityã€‚" # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github: https://github.com/java110/MicroCommunity # add your Github handle
