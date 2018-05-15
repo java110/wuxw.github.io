@@ -7,9 +7,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: java110 wuxw # add your name
+author: java110开发者 # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 一名活波，喜欢钻研技术的一线码农，目前业余时间开发维护MicroCommunity项目，一套小区管理项目，欢迎访问https://github.com/java110/MicroCommunity。 # add description
+about-author: 一名活波，喜欢钻研技术的一线码农，目前业余时间开发维护MicroCommunity项目，一套小区管理项目。 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: java110/MicroCommunity # add your Github handle
