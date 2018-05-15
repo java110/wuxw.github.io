@@ -3,7 +3,7 @@ layout: post
 title: "spring boot 测试环境生产环境不同配置"
 date: 2017-04-06 13:32:20 +0300
 description: 以前我们用weblogic时，数据源配置等是通过weblogic jndi 配置，如今微服务时代我们喜欢轻量级的spring boot 架构系统，那么数据源信息该如何配置呢？ # Add post description (optional)
-img:  # Add image post (optional)
+img:  spring.jpg # Add image post (optional)
 ---
 以前我们用weblogic时，数据源配置等是通过weblogic jndi 配置，如今微服务时代我们喜欢轻量级的spring boot 架构系统，那么数据源信息该如何配置呢？我们知道spring boot 是通过application.yml 文件 或者 application.properties文件 配置的，我们不想在每次启动的时候修改application 文件，那么如何才能实现呢？ 下面我们一起探讨：
 
