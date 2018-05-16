@@ -41,7 +41,7 @@ INSERT INTO c_status(status_cd,NAME,description) VALUES('NE','通知错误订单
 INSERT INTO c_status(status_cd,NAME,description) VALUES('C','错误订单','错误订单');
 
 
-{% endhighlight}
+{% endhighlight %}
 
 ## 2、制作dockerfile 文件
 
